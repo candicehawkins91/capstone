@@ -1,0 +1,52 @@
+
+.homeheading {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#firstHomePar {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#firstFAQPar {
+    text-align: center;
+    margin-top: 20px;
+}
+.grid {
+    margin-top: 20px;
+    justify-content: space-around;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+col {
+    margin-top: 20px;
+    justify-content: space-evenly;
+}
+img {
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
